@@ -1,9 +1,8 @@
 ## Hello World! I'm WoogiOnAndOn, Backend Developer 
 
-###
-###
+### Blog https://velog.io/@jgw987/posts
 
-## Projects
+## 💻 Projects
 - 
 -
 
