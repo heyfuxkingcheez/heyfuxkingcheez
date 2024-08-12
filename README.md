@@ -4,6 +4,7 @@
 ###  <a href="https://velog.io/@jgw987/posts" > <p> 🔗 Velog 블로그 </h3> </a>
 
 ## 💻 Projects
+- 경매 기반 이커머스 서비스
 - 실시간 학습 메타버스 서비스 
 - 동시성 처리 공연 예매 서비스
 
